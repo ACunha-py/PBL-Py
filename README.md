@@ -1,9 +1,3 @@
-Of course. A good `README.md` file is essential for any project. Here is a complete README tailored to your work, explaining both the command-line and graphical versions.
-
-You can copy and paste this content directly into a new file named `README.md` in your project directory.
-
------
-
 # Task Tracker (CLI & GUI)
 
 This is a simple task management application built as a learning project. It was developed by following the [Python Developer roadmap](https://roadmap.sh/python) on roadmap.sh to practice fundamental programming skills.
