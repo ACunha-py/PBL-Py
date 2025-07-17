@@ -1,6 +1,6 @@
 # Task Tracker (CLI & GUI)
 
-This is a simple task management application built as a learning project. It was developed by following the [Python Developer roadmap](https://roadmap.sh/python) on roadmap.sh to practice fundamental programming skills.
+This is a simple task management application built as a learning project. It was developed by following the [Python Developer roadmap](https://roadmap.sh/python) on roadmap.sh to practice fundamental programming skills. https://roadmap.sh/projects/task-tracker
 
 The project includes two interfaces to manage tasks:
 
